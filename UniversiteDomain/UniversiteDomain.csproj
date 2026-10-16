@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="UseCases\EtudiantUseCase\Delete\" />
+      <Folder Include="UseCases\EtudiantUseCase\Get\" />
+      <Folder Include="UseCases\EtudiantUseCase\Update\" />
+      <Folder Include="UseCases\ParcoursUseCase\Delete\" />
+      <Folder Include="UseCases\ParcoursUseCase\Get\" />
+      <Folder Include="UseCases\ParcoursUseCase\Update\" />
+    </ItemGroup>
+
+</Project>

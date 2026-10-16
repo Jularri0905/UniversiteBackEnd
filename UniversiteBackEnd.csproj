@@ -7,4 +7,16 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+
+    <ItemGroup>
+      <Folder Include="UniversiteDomain\DataAdapters\" />
+      <Folder Include="UniversiteDomain\Entities\" />
+      <Folder Include="UniversiteDomain\UseCases\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Moq" Version="4.21.0" />
+      <PackageReference Include="NUnit" Version="5.0.0" />
+    </ItemGroup>
+
 </Project>
