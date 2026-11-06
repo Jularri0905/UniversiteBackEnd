@@ -488,6 +488,8 @@ FodyWeavers.xsd
 *.sln
 *.cs
 
+.gitignore
+
 # JetBrains Rider
 *.sln.iml
 
