@@ -24,11 +24,12 @@
     </ItemGroup>
 
     <ItemGroup>
-        <Using Include="NUnit.Framework"/>
+        <Using Include="NUnit.Framework" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\UniversiteBackEnd.csproj" />
+      <ProjectReference Include="..\UniversiteDomain\UniversiteDomain.csproj" />
     </ItemGroup>
 
 </Project>
