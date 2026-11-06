@@ -484,6 +484,10 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+*.csproj
+*.sln
+*.cs
+
 # JetBrains Rider
 *.sln.iml
 
