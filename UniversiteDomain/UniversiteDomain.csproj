@@ -13,6 +13,9 @@
       <Folder Include="UseCases\ParcoursUseCase\Delete\" />
       <Folder Include="UseCases\ParcoursUseCase\Get\" />
       <Folder Include="UseCases\ParcoursUseCase\Update\" />
+      <Folder Include="UseCases\UeUseCase\Delete\" />
+      <Folder Include="UseCases\UeUseCase\Get\" />
+      <Folder Include="UseCases\UeUseCase\Update\" />
     </ItemGroup>
 
 </Project>
