@@ -10,6 +10,9 @@
       <Folder Include="UseCases\EtudiantUseCase\Delete\" />
       <Folder Include="UseCases\EtudiantUseCase\Get\" />
       <Folder Include="UseCases\EtudiantUseCase\Update\" />
+      <Folder Include="UseCases\NoteUseCase\Delete\" />
+      <Folder Include="UseCases\NoteUseCase\Get\" />
+      <Folder Include="UseCases\NoteUseCase\Update\" />
       <Folder Include="UseCases\ParcoursUseCase\Delete\" />
       <Folder Include="UseCases\ParcoursUseCase\Get\" />
       <Folder Include="UseCases\ParcoursUseCase\Update\" />
