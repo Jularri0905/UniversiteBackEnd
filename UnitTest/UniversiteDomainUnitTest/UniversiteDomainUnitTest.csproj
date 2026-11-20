@@ -28,6 +28,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\..\Domain\UniversiteDomain\UniversiteDomain.csproj" />
       <ProjectReference Include="..\UniversiteBackEnd.csproj" />
       <ProjectReference Include="..\UniversiteDomain\UniversiteDomain.csproj" />
     </ItemGroup>
